@@ -1,0 +1,8 @@
+<?php
+$host="localhost";
+$user="root";
+$password="";
+$db="placement";
+$con= mysqli_connect($host,$user,$password,$db);
+mysqli_select_db($con,$db);
+?>

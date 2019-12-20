@@ -1,0 +1,2 @@
+
+/* danger=red warning=yellow success=green info=blue */
